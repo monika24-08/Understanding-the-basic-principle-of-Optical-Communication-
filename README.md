@@ -10,7 +10,7 @@ Numerical Aperture measurement Jig
  2. Connect one end of fiber cable to the output socket of emitter 1 circuit and the other end to the numerical aperture measurement jig. Hold the white screen facing the fiber such that its cut face is perpendicular to the axis of the fiber.
  3.Hold the white screen with 4 concentric circles (10, 15, 20 & 25mm diameter) vertically at a suitable distance to make the red spot from the fiber core coincide with 10mm circle.
 <img width="482" height="220" alt="image" src="https://github.com/user-attachments/assets/3014e09b-8fcd-43bf-8ccb-dc5db5547141" />
-
+<img width="1493" height="1600" alt="image" src="https://github.com/user-attachments/assets/628b5ded-5d92-4bf9-932d-398b16c34b9c" />
  4. Record the distance from the fiber end, L and note the diameter W of the spot.
  5. Compute the numerical aperture from the formula 
 <img width="371" height="115" alt="image" src="https://github.com/user-attachments/assets/e8d66d15-8e27-494a-a273-223228b9ecb8" />
@@ -20,3 +20,4 @@ Numerical Aperture measurement Jig
 ---
 
 ## Result
+Thus the Numerical aperture of the fiber is measured.
